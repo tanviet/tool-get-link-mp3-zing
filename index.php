@@ -201,9 +201,9 @@
     </div><!-- //header -->
 
     <div id="content">
-      <h1>[Web] Công cụ lấy link nhạc trực tiếp từ MP3 Zing</h1>
+      <h1>[Web] Tải nhạc, album, video trực tiếp từ MP3 Zing với PHP và jQuery</h1>
 
-      Demo cho bài viết <a href="http://tanvietblog.com/2013/06/09/web-lay-link-nhac-truc-tiep-tu-mp3-zing">[Web] Lấy link nhạc trực tiếp từ MP3 Zing</a>
+      Demo cho bài viết <a href="http://tanvietblog.com/2015/09/05/web-tai-nhac-album-video-truc-tiep-tu-mp3-zing-voi-php-jquery">[Web] Tải nhạc, album, video trực tiếp từ MP3 Zing với PHP và jQuery</a>
 
       <br /><br />
 
